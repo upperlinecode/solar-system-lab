@@ -24,6 +24,8 @@ Assume that in the code *the ellipse that represents Earth is in the correct pos
 
 Can you make the planets spin in place (rotate on their own axes) using an a-animation tag? 
 
+Can you change the lighting or the background sounds (although technically space is silent, since there is no medium through which longitudinal sound waves can be transmitted)?
+
 
 ## Expert Challenges
 
